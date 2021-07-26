@@ -69,27 +69,27 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>opencv/haarcascade_eye.xml at master · opencv/opencv</title>
-    <meta name="description" content="Open Source Computer Vision Library. Contribute to opencv/opencv development by creating an account on GitHub.">
+  <title>Streamlit_DataScience_Apps/haarcascade_eye.xml at master · Jcharis/Streamlit_DataScience_Apps</title>
+    <meta name="description" content="Streamlit Data Science and ML Apps in Python. Contribute to Jcharis/Streamlit_DataScience_Apps development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/73f2d8f36fcf31095810001cfba66e9f13f1b80b2dee5bb0430d0a1bc511164f/opencv/opencv" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="opencv/haarcascade_eye.xml at master · opencv/opencv" /><meta name="twitter:description" content="Open Source Computer Vision Library. Contribute to opencv/opencv development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/73f2d8f36fcf31095810001cfba66e9f13f1b80b2dee5bb0430d0a1bc511164f/opencv/opencv" /><meta property="og:image:alt" content="Open Source Computer Vision Library. Contribute to opencv/opencv development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="opencv/haarcascade_eye.xml at master · opencv/opencv" /><meta property="og:url" content="https://github.com/opencv/opencv" /><meta property="og:description" content="Open Source Computer Vision Library. Contribute to opencv/opencv development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/46016e8c2ead3e0d75afc53f65bdcd0ea338924fc7e4a3d217c6f6e31f83a200/Jcharis/Streamlit_DataScience_Apps" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Streamlit_DataScience_Apps/haarcascade_eye.xml at master · Jcharis/Streamlit_DataScience_Apps" /><meta name="twitter:description" content="Streamlit Data Science and ML Apps in Python. Contribute to Jcharis/Streamlit_DataScience_Apps development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/46016e8c2ead3e0d75afc53f65bdcd0ea338924fc7e4a3d217c6f6e31f83a200/Jcharis/Streamlit_DataScience_Apps" /><meta property="og:image:alt" content="Streamlit Data Science and ML Apps in Python. Contribute to Jcharis/Streamlit_DataScience_Apps development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Streamlit_DataScience_Apps/haarcascade_eye.xml at master · Jcharis/Streamlit_DataScience_Apps" /><meta property="og:url" content="https://github.com/Jcharis/Streamlit_DataScience_Apps" /><meta property="og:description" content="Streamlit Data Science and ML Apps in Python. Contribute to Jcharis/Streamlit_DataScience_Apps development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/36455735/ws?session=eyJ2IjoiVjMiLCJ1IjozNjQ1NTczNSwicyI6NjcxMzkzNDUyLCJjIjozNTIyNzU2ODYyLCJ0IjoxNjI3Mjg4NDc0fQ==--5d217bac880258527fe22f959e42a7f5d995ce9c7ce30fa5cc13c02f1c4729fc" data-refresh-url="/_alive" data-session-id="dfd41fd23bcab5f1a342233ed1821f3baf1dd52cbdea251cf6907b7d04c6cf92">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/36455735/ws?session=eyJ2IjoiVjMiLCJ1IjozNjQ1NTczNSwicyI6NjcxMzkzNDUyLCJjIjoxNjM3Njk0OTM4LCJ0IjoxNjI3MzA0ODU1fQ==--8fc3d0cab0fe27b245003bb639c76930920ec3ada845746ccb9fa02903e0561d" data-refresh-url="/_alive" data-session-id="dfd41fd23bcab5f1a342233ed1821f3baf1dd52cbdea251cf6907b7d04c6cf92">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FF35:1274:FFE61:1C59FE:60FE7399" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7551afa7cdb6a3e72af2991441ddaa6183b1f2fe09b4c9f6f7f83f1ceb9fc7c0" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9vcGVuY3Yvb3BlbmN2L3RyZWUvbWFzdGVyL2RhdGEvaGFhcmNhc2NhZGVzIiwicmVxdWVzdF9pZCI6IkZGMzU6MTI3NDpGRkU2MToxQzU5RkU6NjBGRTczOTkiLCJ2aXNpdG9yX2lkIjoiNjUxMjYwNjQwMTcyMjgwNzA5OCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="d72fcbd59b1f0c1c3d3eafcf3b4f276edad8d167aa11429471a000c2e211401e" data-pjax-transient="true" />
+  <meta name="request-id" content="C23E:26D6:67BC65:7F0F44:60FEB396" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7551afa7cdb6a3e72af2991441ddaa6183b1f2fe09b4c9f6f7f83f1ceb9fc7c0" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9KY2hhcmlzL1N0cmVhbWxpdF9EYXRhU2NpZW5jZV9BcHBzL3RyZWUvbWFzdGVyL2ZhY2VfZGV0ZWN0aW9uX2FwcC9mcmVjb2ciLCJyZXF1ZXN0X2lkIjoiQzIzRToyNkQ2OjY3QkM2NTo3RjBGNDQ6NjBGRUIzOTYiLCJ2aXNpdG9yX2lkIjoiNjUxMjYwNjQwMTcyMjgwNzA5OCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="c13907250adca9a9237b882894f3caa5a632ebbaa7a0a65e1e95311dd4c1d945" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:5108051" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:216215996" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -126,7 +126,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MDE5MTQ5ZDI4MjM5NjEyMWJiNTFmMmRjNWVkOWRhMzg2NDVhMmNlNDEwYmJjZTk0MDc2YTg5NmRkZmNjZTRhZHx7InJlbW90ZV9hZGRyZXNzIjoiNDkuMzYuMjEzLjE0NiIsInJlcXVlc3RfaWQiOiJGRjM1OjEyNzQ6RkZFNjE6MUM1OUZFOjYwRkU3Mzk5IiwidGltZXN0YW1wIjoxNjI3Mjg4NDc0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="MDNhNDNjNDdmYzk0MTM0ZGU1ZDE0NTZhNjg1ZGEwYmFhMDE1YTY0MDI1NDEzYjFlMmJlMDJkODQ0NzdkODU1NXx7InJlbW90ZV9hZGRyZXNzIjoiNDkuMzYuMjEzLjE0NiIsInJlcXVlc3RfaWQiOiJDMjNFOjI2RDY6NjdCQzY1OjdGMEY0NDo2MEZFQjM5NiIsInRpbWVzdGFtcCI6MTYyNzMwNDg1NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GITHUB_TOKEN_PERMISSION">
 
@@ -134,13 +134,13 @@
   
 
     
-  <meta name="go-import" content="github.com/opencv/opencv git https://github.com/opencv/opencv.git">
+  <meta name="go-import" content="github.com/Jcharis/Streamlit_DataScience_Apps git https://github.com/Jcharis/Streamlit_DataScience_Apps.git">
 
-  <meta name="octolytics-dimension-user_id" content="5009934" /><meta name="octolytics-dimension-user_login" content="opencv" /><meta name="octolytics-dimension-repository_id" content="5108051" /><meta name="octolytics-dimension-repository_nwo" content="opencv/opencv" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="5108051" /><meta name="octolytics-dimension-repository_network_root_nwo" content="opencv/opencv" />
+  <meta name="octolytics-dimension-user_id" content="21055925" /><meta name="octolytics-dimension-user_login" content="Jcharis" /><meta name="octolytics-dimension-repository_id" content="216215996" /><meta name="octolytics-dimension-repository_nwo" content="Jcharis/Streamlit_DataScience_Apps" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="216215996" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Jcharis/Streamlit_DataScience_Apps" />
 
 
 
-    <link rel="canonical" href="https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -182,7 +182,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="39e8a2fe930885e75a5573e6ca154a3366cb6d8d92c28b91e663a4c69da6d2b0"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="ceea8ef301316e47cc4414eb67a9887e0a2acf243773a213b84485a6b09413fc"
 >
   <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
@@ -204,7 +204,7 @@
   <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
   >
     <div class="position-relative">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="5108051" data-scoped-search-url="/opencv/opencv/search" data-owner-scoped-search-url="/orgs/opencv/search" data-unscoped-search-url="/search" action="/opencv/opencv/search" accept-charset="UTF-8" method="get">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="216215996" data-scoped-search-url="/Jcharis/Streamlit_DataScience_Apps/search" data-owner-scoped-search-url="/users/Jcharis/search" data-unscoped-search-url="/search" action="/Jcharis/Streamlit_DataScience_Apps/search" accept-charset="UTF-8" method="get">
         <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
           <input type="text"
             class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -225,7 +225,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" value="cybRQPogIZ+ETSoMlYGYgUfaA6oPOPO9FUuL518KhnqsFX4frPOw4WQ82pMfMCkgclxSBKLkAxBKIrowEVC6gw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="mYh/4YBZkASwOWVIgfjolFSCRTVBoGdJVxUoEu0iVTRGu9C+1ooBelBIldcLSVk1YQQUm+x8l+QIfBnFo3hpzQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -321,8 +321,8 @@
     </div>
 
     <div class="border rounded-1 flex-shrink-0 color-bg-tertiary px-1 color-text-tertiary ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
-        In this organization
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user">
+        In this user
       </span>
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
@@ -404,7 +404,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;imakash3011&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="d01cdb0e09df9b4f8788acdc65e89b4c99f192dd3fa6bbdc3ee4ad11d4fe7ada" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;imakash3011&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="cba010377181965bef50adf574d4f6076de187a29056b775a05d9638cb285ad1" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -413,12 +413,12 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/36455735?s=40&amp;v=4" width="20" height="20" alt="@imakash3011" />
       imakash3011
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5jT/ZyEllhfvZ1N0T3Ji930AjPZ0xpWObfoQYCJ/8X3dcik6ou8caOnCBBpXcmwAhB+oC1Jh3OBKGoWfL00B9A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6p3063Zg122AMfqHrtFUcviH6QRPx12KRzeZu2mdd5DR2yK29apdEoaUrem20VqFAZjN+WlgFORg1wxEZK+HGQ==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="84482f8785a06e20374ea89e05e0d54a670ed84ec39da055cf4be98658e37b22"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="f6016274f9d8af4229a33680ba653ab769f9406ed54de1d2b1aa2a71d89b3502"
       >
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -433,7 +433,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="39e8a2fe930885e75a5573e6ca154a3366cb6d8d92c28b91e663a4c69da6d2b0"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="ceea8ef301316e47cc4414eb67a9887e0a2acf243773a213b84485a6b09413fc"
 >
   <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
@@ -447,7 +447,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzY0NTU3MzUiLCJ0IjoxNjI3Mjg4NDc0fQ==--f068ce809aecede2bed71c820f23cffc51fa4e04e052356a1c17b4378ebeba2d">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzY0NTU3MzUiLCJ0IjoxNjI3MzA0ODU1fQ==--fed64d3982851da979d898137fdc62f5a505a4433925b38da98212b7f3153117">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -470,7 +470,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="f223f3677f16d15864e91b4e016af84d822480dfffc8f586968a472e7e02eb09"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="abc71a1d7fab5fed5595b0bdb0f3b186b3d0594f6577fe36aab40289a8c2a67b"
   >
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -508,7 +508,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="efd5dde0dc56b26406ef4a968a370163bf2e617b3928455ea939ed87b48c2462"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="06a650502ba4d5f9cf38eb2069aec2c9ca36a07f6cbf5cfd0a056af88180db00"
   >
     <img src="https://avatars.githubusercontent.com/u/36455735?s=60&amp;v=4" alt="@imakash3011" size="20" data-view-component="true" height="20" width="20" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -583,9 +583,6 @@
       
 
       
-    
-
-
 
 
 
@@ -601,11 +598,11 @@
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
     <svg class="octicon octicon-repo color-text-secondary mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/opencv/hovercard" href="/opencv">opencv</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Jcharis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Jcharis">Jcharis</a>
   </span>
   <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/opencv/opencv">opencv</a>
+    <a data-pjax="#js-repo-pjax-container" href="/Jcharis/Streamlit_DataScience_Apps">Streamlit_DataScience_Apps</a>
   </strong>
   
 </h1>
@@ -623,7 +620,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:5108051,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="e873c74292518cadfc6fcd39af5379ca79da1f698ea9306f6495c4bcc50ae916" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:216215996,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="6c3acec19a0dd9f5b849a34360bceb545907c586dfe4aba552686bed2a6e2566" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -675,9 +672,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="suHjyfV0n9mzqGz19dEANOF7b+gZ6RpM+Ue0+0RW+N8DYNp/ZYs3lfGS6yEXG3aVuyQY1h+t8FNOSgH/byxRIA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uGhMGF9JlaczZN60pasVpbwi7TYH+k/p6Xu13+MQuYUJ6XWuz7Y963FeWWBHYWME5n2aCAG+pfZedgDbyGoQeg==" />
 
-                <input type="hidden" name="repository_id" value="5108051">
+                <input type="hidden" name="repository_id" value="216215996">
 
                 <button
                   type="submit"
@@ -787,9 +784,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cNSnCRGUIbWZAbHwde1lBgO4iN7zCR3bB9Iov1m+ojLBVZ6/gWuJ+ds7NiSXJxOnWef/4PVN98Sw3527csQLzQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hqNtlRwZ7yyI4YY1+yYSHapceZAH5wYJkBZWskUldCQ3IlQjjOZHYMrbAeEZ7GS88AMOrgGj7BYnG+O2bl/d2w==" />
 
-              <input type="hidden" name="repository_id" value="5108051">
+              <input type="hidden" name="repository_id" value="216215996">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -932,11 +929,11 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/opencv/opencv/watchers"
-          aria-label="2689 users are watching this repository"
+          href="/Jcharis/Streamlit_DataScience_Apps/watchers"
+          aria-label="10 users are watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
-          2.7k
+          10
         </a>
     </notifications-list-subscription-form>
 
@@ -946,28 +943,28 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/opencv/opencv/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JZTNSdUtVOOQHhSgmwII4KB9tErIoNeIExfyf87aRRCnFm+MTeN/6pUsGSlbWSu52lnBVEOJjXlESOcZ6k9+7g==" />
+    <form class="starred js-social-form" action="/Jcharis/Streamlit_DataScience_Apps/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h39uu40/l/Sg4/ggGRVJQreXZ+m2hqBHrZD7Jg4b300juUIXGBP8fer46EUN34TRZZfZymTzvAm1fyDA6Od56w==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar opencv/opencv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:5108051,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="2b8fa56de3ba21ee435282390dc793dfd13c31041b1e20aac54ffd21b51ecc7d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar Jcharis/Streamlit_DataScience_Apps" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:216215996,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="2cf46d842d77168b78c8bc2178fdefb808f6278612efc3f402f453966e99821c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/opencv/opencv/stargazers"
-           aria-label="55684 users starred this repository">
-           55.7k
+</span></button>        <a class="social-count js-social-count" href="/Jcharis/Streamlit_DataScience_Apps/stargazers"
+           aria-label="220 users starred this repository">
+           220
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/opencv/opencv/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3z2pGA4V5par4eY0P8cAxR/GbqCOijHQaq8wkOzxKobyD+8m+TnYH/lLW1gLlXynorgTqIrc6Vd/CWHNxzi67w==" />
+    <form class="unstarred js-social-form" action="/Jcharis/Streamlit_DataScience_Apps/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8nts8aIcNWPCVykwMgXAHtuC7MKmxiuj6SR6l5JLdD2weihkocOffhYcQLc4SqXDnN1tJ9BsQUf+gVsdcYjjIA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star opencv/opencv" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:5108051,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="48d888c17eb68c425fb48a8360b16c71a8e212dec8eaacb62d587dfaa7f30954" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star Jcharis/Streamlit_DataScience_Apps" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:216215996,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="b95c436a08511e47bf0a963153f74c90b09f337a3cc7eeba38884d6f647b32d0" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
           Star
-</span></button>        <a class="social-count js-social-count" href="/opencv/opencv/stargazers"
-           aria-label="55684 users starred this repository">
-          55.7k
+</span></button>        <a class="social-count js-social-count" href="/Jcharis/Streamlit_DataScience_Apps/stargazers"
+           aria-label="220 users starred this repository">
+          220
         </a>
 </form>  </div>
 
@@ -978,8 +975,8 @@
               <details class="details-reset details-overlay details-overlay-dark " >
                       <summary
                     class="btn btn-sm btn-with-count"
-                    title="Fork your own copy of opencv/opencv to your account"
-                    data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:5108051,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="c46e34bea975d28e7794686ac98144612a46674b3cc23429b8f7fb6001a924df" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
+                    title="Fork your own copy of Jcharis/Streamlit_DataScience_Apps to your account"
+                    data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:216215996,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="8211e93efef09edfe5e5c133d1a27f0a33deb07a64363207f4c49067e8939756" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
                     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -988,8 +985,8 @@
 
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay "
-      aria-label="Fork opencv"
-      src="/opencv/opencv/fork?fragment=1"
+      aria-label="Fork Streamlit_DataScience_Apps"
+      src="/Jcharis/Streamlit_DataScience_Apps/fork?fragment=1"
       preload
     >
     <div class="Box-header">
@@ -998,13 +995,13 @@
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
       </button>
-      <h1 class="Box-title">Fork opencv</h1>
+      <h1 class="Box-title">Fork Streamlit_DataScience_Apps</h1>
     </div>
       
                 <div class="text-center overflow-auto">
                   <include-fragment>
                     <div class="octocat-spinner my-5" aria-label="Loading..."></div>
-                    <p class="f5 color-text-secondary">If this dialog fails to load, you can visit <a href="/opencv/opencv/fork">the fork page</a> directly.</p>
+                    <p class="f5 color-text-secondary">If this dialog fails to load, you can visit <a href="/Jcharis/Streamlit_DataScience_Apps/fork">the fork page</a> directly.</p>
                   </include-fragment>
                 </div>
 
@@ -1012,9 +1009,9 @@
 </details>
             </div>
 
-      <a href="/opencv/opencv/network/members" class="social-count"
-         aria-label="46895 users forked this repository">
-        46.9k
+      <a href="/Jcharis/Streamlit_DataScience_Apps/network/members" class="social-count"
+         aria-label="142 users forked this repository">
+        142
       </a>
   </li>
 </ul>
@@ -1026,7 +1023,7 @@
 
     <ul data-view-component="true" class="UnderlineNav-body list-style-none">
         <li data-view-component="true" class="d-flex">
-  <a id="code-tab" href="/opencv/opencv" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /opencv/opencv" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" data-pjax="#repo-content-pjax-container" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Jcharis/Streamlit_DataScience_Apps" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Jcharis/Streamlit_DataScience_Apps" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" data-pjax="#repo-content-pjax-container" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
           <span data-content="Code">Code</span>
@@ -1035,25 +1032,43 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a id="issues-tab" href="/opencv/opencv/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /opencv/opencv/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Jcharis/Streamlit_DataScience_Apps/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Jcharis/Streamlit_DataScience_Apps/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg>
           <span data-content="Issues">Issues</span>
-            <span title="1,865" data-view-component="true" class="Counter">1.9k</span>
+            <span title="2" data-view-component="true" class="Counter">2</span>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a id="pull-requests-tab" href="/opencv/opencv/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /opencv/opencv/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Jcharis/Streamlit_DataScience_Apps/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Jcharis/Streamlit_DataScience_Apps/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
           <span data-content="Pull requests">Pull requests</span>
-            <span title="102" data-view-component="true" class="Counter">102</span>
+            <span title="6" data-view-component="true" class="Counter">6</span>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a id="wiki-tab" href="/opencv/opencv/wiki" data-tab-item="i3wiki-tab" data-selected-links="repo_wiki /opencv/opencv/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Jcharis/Streamlit_DataScience_Apps/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Jcharis/Streamlit_DataScience_Apps/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
+          <span data-content="Actions">Actions</span>
+            <span title="Not available" data-view-component="true" class="Counter"></span>
+
+    
+</a></li>
+        <li data-view-component="true" class="d-flex">
+  <a id="projects-tab" href="/Jcharis/Streamlit_DataScience_Apps/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Jcharis/Streamlit_DataScience_Apps/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                  <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+          <span data-content="Projects">Projects</span>
+            <span title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+
+    
+</a></li>
+        <li data-view-component="true" class="d-flex">
+  <a id="wiki-tab" href="/Jcharis/Streamlit_DataScience_Apps/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Jcharis/Streamlit_DataScience_Apps/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
           <span data-content="Wiki">Wiki</span>
@@ -1062,16 +1077,16 @@
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a id="security-tab" href="/opencv/opencv/security" data-tab-item="i4security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /opencv/opencv/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Jcharis/Streamlit_DataScience_Apps/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Jcharis/Streamlit_DataScience_Apps/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/opencv/opencv/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/Jcharis/Streamlit_DataScience_Apps/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
         <li data-view-component="true" class="d-flex">
-  <a id="insights-tab" href="/opencv/opencv/pulse" data-tab-item="i5insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /opencv/opencv/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Jcharis/Streamlit_DataScience_Apps/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Jcharis/Streamlit_DataScience_Apps/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
           <span data-content="Insights">Insights</span>
@@ -1092,27 +1107,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /opencv/opencv" href="/opencv/opencv">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Jcharis/Streamlit_DataScience_Apps" href="/Jcharis/Streamlit_DataScience_Apps">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /opencv/opencv/issues" href="/opencv/opencv/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Jcharis/Streamlit_DataScience_Apps/issues" href="/Jcharis/Streamlit_DataScience_Apps/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /opencv/opencv/pulls" href="/opencv/opencv/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Jcharis/Streamlit_DataScience_Apps/pulls" href="/Jcharis/Streamlit_DataScience_Apps/pulls">
                     Pull requests
 </a>                </li>
-                <li data-menu-item="i3wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /opencv/opencv/wiki" href="/opencv/opencv/wiki">
+                <li data-menu-item="i3actions-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Jcharis/Streamlit_DataScience_Apps/actions" href="/Jcharis/Streamlit_DataScience_Apps/actions">
+                    Actions
+</a>                </li>
+                <li data-menu-item="i4projects-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Jcharis/Streamlit_DataScience_Apps/projects" href="/Jcharis/Streamlit_DataScience_Apps/projects">
+                    Projects
+</a>                </li>
+                <li data-menu-item="i5wiki-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Jcharis/Streamlit_DataScience_Apps/wiki" href="/Jcharis/Streamlit_DataScience_Apps/wiki">
                     Wiki
 </a>                </li>
-                <li data-menu-item="i4security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /opencv/opencv/security" href="/opencv/opencv/security">
+                <li data-menu-item="i6security-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Jcharis/Streamlit_DataScience_Apps/security" href="/Jcharis/Streamlit_DataScience_Apps/security">
                     Security
 </a>                </li>
-                <li data-menu-item="i5insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /opencv/opencv/pulse" href="/opencv/opencv/pulse">
+                <li data-menu-item="i7insights-tab" hidden>
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Jcharis/Streamlit_DataScience_Apps/pulse" href="/Jcharis/Streamlit_DataScience_Apps/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -1134,9 +1157,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/opencv/opencv/blob/f4d6a3ec4e1ccb823eed9554d322054106373986/data/haarcascades/haarcascade_eye.xml">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Jcharis/Streamlit_DataScience_Apps/blob/3af18c0783c23c0c0e6696fc942a7ff2d26f6b1b/face_detection_app/frecog/haarcascade_eye.xml">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:ea50e0d9da31735bea8e92d510fed3aba47df94f7832dacfd6176aab303b94e1 -->
+    <!-- blob contrib key: blob_contributors:v22:7260e33c155fecfe9ca9a5dc68a5a67d5fb5a945f5e88b87de820d476d007065 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1192,12 +1215,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/opencv/opencv/refs"
+            query-endpoint="/Jcharis/Streamlit_DataScience_Apps/refs"
             
-            cache-key="v0:1625524263.662839"
+            cache-key="v0:1622984348.8404999"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="b3BlbmN2L29wZW5jdg=="
+            name-with-owner="SmNoYXJpcy9TdHJlYW1saXRfRGF0YVNjaWVuY2VfQXBwcw=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1220,7 +1243,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/opencv/opencv/blob/{{ urlEncodedRefName }}/data/haarcascades/haarcascade_eye.xml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/{{ urlEncodedRefName }}/face_detection_app/frecog/haarcascade_eye.xml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1230,7 +1253,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/opencv/opencv/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Jcharis/Streamlit_DataScience_Apps/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1244,11 +1267,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/opencv/opencv/refs"
-            cache-key="v0:1625524263.662839"
+            query-endpoint="/Jcharis/Streamlit_DataScience_Apps/refs"
+            cache-key="v0:1622984348.8404999"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="b3BlbmN2L29wZW5jdg=="
+            name-with-owner="SmNoYXJpcy9TdHJlYW1saXRfRGF0YVNjaWVuY2VfQXBwcw=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1260,7 +1283,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/opencv/opencv/blob/{{ urlEncodedRefName }}/data/haarcascades/haarcascade_eye.xml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/{{ urlEncodedRefName }}/face_detection_app/frecog/haarcascade_eye.xml" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1278,7 +1301,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/opencv/opencv/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Jcharis/Streamlit_DataScience_Apps/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1291,9 +1314,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/opencv/opencv"><span>opencv</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/opencv/opencv/tree/master/data"><span>data</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/opencv/opencv/tree/master/data/haarcascades"><span>haarcascades</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_eye.xml</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Jcharis/Streamlit_DataScience_Apps"><span>Streamlit_DataScience_Apps</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Jcharis/Streamlit_DataScience_Apps/tree/master/face_detection_app"><span>face_detection_app</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Jcharis/Streamlit_DataScience_Apps/tree/master/face_detection_app/frecog"><span>frecog</span></a></span><span class="separator">/</span><strong class="final-path">haarcascade_eye.xml</strong>
       </h2>
-      <a href="/opencv/opencv/find/master"
+      <a href="/Jcharis/Streamlit_DataScience_Apps/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1312,7 +1335,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:5108051,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="a8a5fad4b0b83d535e8ae84b295e370c9291ac0591a6a2f0b5ccd74aac5643e6" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/opencv/opencv/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:216215996,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="095bba9519c3142f821245bc7479f55a2d341088f63aa0df9005ef7a422cf8c1" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Jcharis/Streamlit_DataScience_Apps/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1326,12 +1349,12 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="data/haarcascades/haarcascade_eye.xml" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="face_detection_app/frecog/haarcascade_eye.xml" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/opencv/opencv/blob/f4d6a3ec4e1ccb823eed9554d322054106373986/data/haarcascades/haarcascade_eye.xml" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/3af18c0783c23c0c0e6696fc942a7ff2d26f6b1b/face_detection_app/frecog/haarcascade_eye.xml" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1345,80 +1368,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/vpisarev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vpisarev"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2110786?s=48&amp;v=4" width="24" height="24" alt="@vpisarev" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/vpisarev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vpisarev">vpisarev</a>
-
-              <span class="markdown-title">
-                <a data-pjax="true" title="some attempts to tune the performance" class="Link--secondary" href="/opencv/opencv/commit/b7553d4e2eddc5645023a94a850fe092dd9f223e">some attempts to tune the performance</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/opencv/opencv/commit/b7553d4e2eddc5645023a94a850fe092dd9f223e/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/Jcharis/Streamlit_DataScience_Apps/contributors/master/face_detection_app/frecog/haarcascade_eye.xml" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/opencv/opencv/commit/b7553d4e2eddc5645023a94a850fe092dd9f223e" data-pjax>b7553d4</a>
-            <span itemprop="dateModified"><relative-time datetime="2013-12-19T10:09:44Z" class="no-wrap">Dec 19, 2013</relative-time></span>
-          </span>
 
-          <a data-pjax href="/opencv/opencv/commits/master/data/haarcascades/haarcascade_eye.xml" class="ml-3 no-wrap Link--primary no-underline">
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-history text-gray">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-people text-gray">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/opencv/opencv/contributors-list/master/data/haarcascades/haarcascade_eye.xml" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" data-view-component="true" width="32" height="32" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1451,13 +1411,13 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/opencv/opencv/raw/master/data/haarcascades/haarcascade_eye.xml" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/Jcharis/Streamlit_DataScience_Apps/raw/master/face_detection_app/frecog/haarcascade_eye.xml" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/opencv/opencv/blame/master/data/haarcascades/haarcascade_eye.xml" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/Jcharis/Streamlit_DataScience_Apps/blame/master/face_detection_app/frecog/haarcascade_eye.xml" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1476,7 +1436,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/opencv/opencv/edit/master/data/haarcascades/haarcascade_eye.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="f4RRGcylAXsR+9hhmOxvDiANXPjQJewsFS7CH6j5R0tw5/OsSWbmgC3yD7T23EDx0uRGSQ9/oKqYa+6Gd5IqVA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Jcharis/Streamlit_DataScience_Apps/edit/master/face_detection_app/frecog/haarcascade_eye.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1vemZzVPNeRw/045lYechIMq3TxtkbJuZh9RQV0B/+tebJTryQDuPPFwtZ9T1viZA+rvNDsl8uVXjIBHTLlgDg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
@@ -1484,7 +1444,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/opencv/opencv/delete/master/data/haarcascades/haarcascade_eye.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="piLKkbw9F3Lkx9F2KUURXhlH2C1nN3R9V/4EG9215MEV+uSfS6sIdsck5fiGgHTb7PMNr3bbvik2IzfnC14c5w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Jcharis/Streamlit_DataScience_Apps/delete/master/face_detection_app/frecog/haarcascade_eye.xml" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jTv6Dbiy7tQYB8CtngJerVmpslY3uIhxlokNZLUvLrzTpdTtYvmhThr1u9K/7p/D3FRfZ03RFeO+3rQSgc0NkQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
@@ -1512,22 +1472,22 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/opencv/opencv/raw/master/data/haarcascades/haarcascade_eye.xml">
+            <a class="dropdown-item" href="/Jcharis/Streamlit_DataScience_Apps/raw/master/face_detection_app/frecog/haarcascade_eye.xml">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/opencv/opencv/blame/master/data/haarcascades/haarcascade_eye.xml">
+              <a class="dropdown-item" href="/Jcharis/Streamlit_DataScience_Apps/blame/master/face_detection_app/frecog/haarcascade_eye.xml">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/opencv/opencv/edit/master/data/haarcascades/haarcascade_eye.xml">Edit file</a>
+                <a class="dropdown-item" href="/Jcharis/Streamlit_DataScience_Apps/edit/master/face_detection_app/frecog/haarcascade_eye.xml">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/opencv/opencv/delete/master/data/haarcascades/haarcascade_eye.xml">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Jcharis/Streamlit_DataScience_Apps/delete/master/face_detection_app/frecog/haarcascade_eye.xml">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1539,7 +1499,7 @@
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-xml  gist-border-0">
 
       
-<table class="highlight tab-size js-file-line-container" data-tab-size="4" data-paste-markdown-skip>
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
         <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;?<span class="pl-ent">xml</span><span class="pl-e"> version</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>1.0<span class="pl-pds">&quot;</span></span>?&gt;</td>
@@ -50415,8 +50375,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/opencv/opencv/blame/f4d6a3ec4e1ccb823eed9554d322054106373986/data/haarcascades/haarcascade_eye.xml">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/opencv/opencv/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Jcharis/Streamlit_DataScience_Apps/blame/3af18c0783c23c0c0e6696fc942a7ff2d26f6b1b/face_detection_app/frecog/haarcascade_eye.xml">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Jcharis/Streamlit_DataScience_Apps/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -50460,10 +50420,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="68e67b0f554ca833898a93985548a40605b6002f3b7247ef14b1cbeca61e734b">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="32f17d65603b798d112deb830f75622d5729e4156ab2bd8db6f589c94417a5c3">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="454e12e8c982a3422b53731520d7e52a1f83970688486c6a626d1771f479692b" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="59682e150820166aa032442662e449e1331dcd2fd694c6c01d848e5089ceba82">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="ca94f3bbfc5aadefec92553a498a519c33630facf9c173f8aeba17b1e1413621">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="76932fb0c4861ea109198aa20f1874bc9204a6708edfc9893132d14a7eca55c5">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="68bf74b5c213b4d438b358ec7c7d7a717159eb19b53ed8f4e409884db77c1cbe" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="58f9e07e92f818f2bf5e00a3fddccf6cb50170cfb1ad859f038028f0b7c7a4e9">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -50473,11 +50433,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="e7604fd2f9fa4169a3efe0afa405c75a08d76db2b2e3cc6651b180db40a20e48">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="7531bf5393b075dfba7fdcd9573bc1ebcefd5e22f72707d807d05d1911e7115c">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="dbf05a5e7a6a10202d99a7c9e315f4c9e9c67df43417a207b7a817c263784f91">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="03c79b0f4ba896771ce1e12f85f288ff331e97852b0453763b747d9945103a82">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="74ac28565b15e85545e5704077277c701fa3fc135b86a6f70341d46d6a92cca9">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="b2121a68cc081fafdf90cf8d2f284c89e17cb88078cd5f8e1df220b46fc15c4d">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="042e015595c20ac88d9f6e34a227d90077cd580a12d2b438f95d5d2fca189217">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="67f99dc48fbf909fbbb30743794fbee97b90a951c274ef041f644d2535ca012d">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="8a39a06e9f47b3df01204efddd9ae7f69b97f0f1ee62313e24a0279599e201dd">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/Jcharis/Streamlit_DataScience_Apps/blob/master/face_detection_app/frecog/haarcascade_eye.xml&quot;,&quot;user_id&quot;:36455735}}" data-hydro-click-hmac="6e0836cfef03ce6bb8ccb08329a4062b52c9f023d178a289e64a38f9aeba0c35">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
