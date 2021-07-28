@@ -128,7 +128,7 @@ def main():
 				st.image(our_image,width=300)
 
 
-		# Face Detection
+		# Face Detection and mage Effects
 		task = ["Faces","Smiles","Eyes","Cannize","Cartonize"]
 		feature_choice = st.sidebar.selectbox("Find Features",task)
 		if st.button("Process"):
@@ -157,12 +157,13 @@ def main():
 
 
 	elif choice == 'About':
-		# st.background()
+		# st.title("About App")
+		st.markdown(f'<p style="font-family:Georgia; color:#FF0000; font-size:25px;"> <b>About App</b> </p>' , unsafe_allow_html=True)
+
 		st.text("Build by using Streamlit and OpenCV")
-		st.text("By using this face app we can edit the an image also using this we can detect different parts of our face.")
+		st.text("This helps to edit an image and detect different parts of a face.")
 		st.text(" Built with 💖 by Akash Patel ")
 		
-
 
 if __name__ == '__main__':
 		main()
