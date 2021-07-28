@@ -3,6 +3,7 @@ import numpy as np
 import streamlit as st 
 from PIL import Image,ImageEnhance
 
+st.markdown(f'<p style="font-family:Georgia; text-align:center; color:#FF0000; font-size:40px; border-radius:2%;"> <b>Multipurpose Face App</b> </p>' , unsafe_allow_html=True)
 
 @st.cache
 def load_image(img):
@@ -69,11 +70,6 @@ def cannize_image(our_image):
 	return canny
 
 def main():
-	"""Face Detection App"""
-
-	st.title("Face Detection App")
-	st.text("Build with Streamlit and OpenCV")
-
 	activities = ["Detection","About"]
 	choice = st.sidebar.selectbox("Select Activty",activities)
 
@@ -160,13 +156,12 @@ def main():
 				st.image(result_canny,width=300)
 
 
-
-
 	elif choice == 'About':
-		st.subheader("Multipurpose Face App ")
-		st.text("Built with 💖 by Akash Patel")
+		# st.background()
+		st.text("Build by using Streamlit and OpenCV")
+		st.text("By using this face app we can edit the an image also using this we can detect different parts of our face.")
+		st.text(" Built with 💖 by Akash Patel ")
 		
-
 
 
 if __name__ == '__main__':
