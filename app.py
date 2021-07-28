@@ -1,24 +1,18 @@
-# Core Pkgs
-import streamlit as st 
 import cv2
-from PIL import Image,ImageEnhance
 import numpy as np 
-import os
+import streamlit as st 
+from PIL import Image,ImageEnhance
+
 
 @st.cache
 def load_image(img):
 	im = Image.open(img)
 	return im
 
-
-# cascPath = "haarcascade_frontalface_default.xml"
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 eye_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_eye.xml")
 smile_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_smile.xml")
 
-# face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default')
-# eye_cascade = cv2.CascadeClassifier('/frecog/haarcascade_eye.xml')
-# smile_cascade = cv2.CascadeClassifier('frecog/haarcascade_smile.xml')
 
 def detect_faces(our_image):
 	new_img = np.array(our_image.convert('RGB'))
@@ -90,39 +84,51 @@ def main():
 
 		if image_file is not None:
 			our_image = Image.open(image_file)
-			st.text("Original Image")
+			# st.text("Original Image")
 			# st.write(type(our_image))
-			st.image(our_image)
+			# st.image(our_image, width=300)
 
 			enhance_type = st.sidebar.radio("Enhance Type",["Original","Gray-Scale","Contrast","Brightness","Blurring"])
 			if enhance_type == 'Gray-Scale':
+				st.text("Gray-Scaled Image")
 				new_img = np.array(our_image.convert('RGB'))
 				img = cv2.cvtColor(new_img,1)
 				gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 				# st.write(new_img)
-				st.image(gray)
+				st.image(gray, width=300)
+
 			elif enhance_type == 'Contrast':
-				c_rate = st.sidebar.slider("Contrast",0.5,3.5)
+				st.text("Contrast Image")
+				c_rate = st.sidebar.slider("Contrast",0.0, 5.4, 0.3)
 				enhancer = ImageEnhance.Contrast(our_image)
 				img_output = enhancer.enhance(c_rate)
-				st.image(img_output)
+				st.image(img_output, width=300)
+				st.markdown(f'`Contrast strength is : {c_rate}`')
+				
 
 			elif enhance_type == 'Brightness':
-				c_rate = st.sidebar.slider("Brightness",0.5,3.5)
+				st.text("Bright Image")
+				c_rate = st.sidebar.slider("Brightness",0.0,5.4, 0.3)
 				enhancer = ImageEnhance.Brightness(our_image)
 				img_output = enhancer.enhance(c_rate)
-				st.image(img_output)
+				st.image(img_output, width=300)
+				st.markdown(f'`Brightness strength is : {c_rate}`')
 
 			elif enhance_type == 'Blurring':
+				st.text("Blur Image")
 				new_img = np.array(our_image.convert('RGB'))
-				blur_rate = st.sidebar.slider("Brightness",0.5,3.5)
+				blur_rate = st.sidebar.slider("Brightness",0.0,5.4, 0.3)
 				img = cv2.cvtColor(new_img,1)
 				blur_img = cv2.GaussianBlur(img,(11,11),blur_rate)
-				st.image(blur_img)
+				st.image(blur_img, width=300)
+				st.markdown(f'`Blur strength is : {blur_rate}`')
+
 			elif enhance_type == 'Original':
-				
+				st.text("Original Image")
 				st.image(our_image,width=300)
+				
 			else:
+				# st.text("Original Image")
 				st.image(our_image,width=300)
 
 
@@ -133,33 +139,33 @@ def main():
 
 			if feature_choice == 'Faces':
 				result_img,result_faces = detect_faces(our_image)
-				st.image(result_img)
+				st.image(result_img, width=300)
 
 				st.success("Found {} faces".format(len(result_faces)))
 			elif feature_choice == 'Smiles':
 				result_img = detect_smiles(our_image)
-				st.image(result_img)
+				st.image(result_img, width=300)
 
 
 			elif feature_choice == 'Eyes':
 				result_img = detect_eyes(our_image)
-				st.image(result_img)
+				st.image(result_img, width=300)
 
 			elif feature_choice == 'Cartonize':
 				result_img = cartonize_image(our_image)
-				st.image(result_img)
+				st.image(result_img, width=300)
 
 			elif feature_choice == 'Cannize':
 				result_canny = cannize_image(our_image)
-				st.image(result_canny)
+				st.image(result_canny,width=300)
 
 
 
 
 	elif choice == 'About':
-		st.subheader("About Face Detection App")
-		st.text("Akash Patel")
-		st.success("Akash Patel @imakash3011")
+		st.subheader("Multipurpose Face App ")
+		st.text("Built with 💖 by Akash Patel")
+		
 
 
 
