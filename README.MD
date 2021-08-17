@@ -6,6 +6,14 @@ ___________________________
 
 __________________________
 
+#### To Run this project :-
+
+* Clone this repo into your local machine.
+* Install are the required libraries.
+* Type "streamlit run myapp.py" to run this project files.
+
+__________________________
+
 ## About Project
 
 ### It a multipurpose FaceApp using which we can perform different things on  an Image like :-
