@@ -9,8 +9,10 @@ __________________________
 #### To Run this project :-
 
 * Clone this repo into your local machine.
-* Install are the required libraries.
-* Type "streamlit run myapp.py" to run this project files.
+* Install all the required libraries.
+* Type "streamlit run myapp.py" to run this project files. 📁
+* Now visit to the URL, which is present in terminal 💻
+* And Now do whatever you wish to do with your image.😃😎
 
 __________________________
 
@@ -45,5 +47,5 @@ _____________________________
 
 _____________________________
 
-Thank you
+Thank you 💝
 
